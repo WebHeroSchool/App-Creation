@@ -138,11 +138,11 @@ body {
   text-decoration: none;
   border-radius: 4px;
   border: none;
-  transition: opacity .3s;
+  transition: opacity 0.3s;
 }
 
 .main__button:hover {
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .main__button:active {
